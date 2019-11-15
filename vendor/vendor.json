@@ -83,6 +83,12 @@
 			"revisionTime": "2019-08-12T10:43:08Z"
 		},
 		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "2180aed2234323691e9fd264fb1d32d20ff04b27",
+			"revisionTime": "2019-11-05T20:36:25Z"
+		},
+		{
 			"checksumSHA1": "JHml2PyXsqdDwVyJ+NLwMJTjz9I=",
 			"path": "golang.org/x/sys/unix",
 			"revision": "52ab431487773bc9dd1b0766228b1cf3944126bf",
